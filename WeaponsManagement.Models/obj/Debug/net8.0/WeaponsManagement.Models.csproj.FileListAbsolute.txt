@@ -1,0 +1,11 @@
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\bin\Debug\net8.0\WeaponsManagement.Models.deps.json
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\bin\Debug\net8.0\WeaponsManagement.Models.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\bin\Debug\net8.0\WeaponsManagement.Models.pdb
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.AssemblyInfoInputs.cache
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.AssemblyInfo.cs
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.csproj.CoreCompileInputs.cache
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\refint\WeaponsManagement.Models.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.pdb
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\ref\WeaponsManagement.Models.dll

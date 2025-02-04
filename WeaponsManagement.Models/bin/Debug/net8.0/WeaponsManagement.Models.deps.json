@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeaponsManagement.Models/1.0.0": {
+        "runtime": {
+          "WeaponsManagement.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponsManagement.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

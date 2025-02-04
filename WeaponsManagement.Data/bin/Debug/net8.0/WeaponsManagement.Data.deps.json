@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeaponsManagement.Data/1.0.0": {
+        "dependencies": {
+          "WeaponsManagement.Models": "1.0.0"
+        },
+        "runtime": {
+          "WeaponsManagement.Data.dll": {}
+        }
+      },
+      "WeaponsManagement.Models/1.0.0": {
+        "runtime": {
+          "WeaponsManagement.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponsManagement.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponsManagement.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
