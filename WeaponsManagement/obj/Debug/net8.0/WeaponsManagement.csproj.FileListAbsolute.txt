@@ -229,3 +229,16 @@ C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\WeaponsManag
 C:\WebProjects\WeaponsManagement\WeaponsManagement\obj\Debug\net8.0\WeaponsManagement.csproj.AssemblyReference.cache
 C:\WebProjects\WeaponsManagement\WeaponsManagement\obj\Debug\net8.0\WeaponsM.00163961.Up2Date
 C:\WebProjects\WeaponsManagement\WeaponsManagement\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\itextsharp.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\MySqlConnector.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\obj\Debug\net8.0\WeaponsManagement.sourcelink.json

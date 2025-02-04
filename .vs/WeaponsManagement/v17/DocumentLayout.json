@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\WebProjects\\WeaponsManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\people\\military.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\people\\military.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\people\\pathpicturemilitary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\people\\pathpicturemilitary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\equipment\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\equipment\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\equipment\\pathpictureweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\equipment\\pathpictureweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\place\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\place\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\place\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\place\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathPictureMilitary.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\People\\PathPictureMilitary.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Models\\People\\PathPictureMilitary.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\People\\PathPictureMilitary.cs",
+              "RelativeToolTip": "WeaponsManagement.Models\\People\\PathPictureMilitary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:12:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PathPictureWeapon.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Equipment\\PathPictureWeapon.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Models\\Equipment\\PathPictureWeapon.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Equipment\\PathPictureWeapon.cs",
+              "RelativeToolTip": "WeaponsManagement.Models\\Equipment\\PathPictureWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:04:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Military.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\People\\Military.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Models\\People\\Military.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\People\\Military.cs",
+              "RelativeToolTip": "WeaponsManagement.Models\\People\\Military.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:59:48.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Place\\Address.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Models\\Place\\Address.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Place\\Address.cs",
+              "RelativeToolTip": "WeaponsManagement.Models\\Place\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:24:14.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Place\\Unit.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Models\\Place\\Unit.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Place\\Unit.cs",
+              "RelativeToolTip": "WeaponsManagement.Models\\Place\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:21:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Equipment\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Models\\Equipment\\Weapon.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Equipment\\Weapon.cs",
+              "RelativeToolTip": "WeaponsManagement.Models\\Equipment\\Weapon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:57:50.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

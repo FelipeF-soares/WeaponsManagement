@@ -13,3 +13,6 @@ C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\obj\Debug\net8.0\Weapons
 C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\obj\Debug\net8.0\refint\WeaponsManagement.Data.dll
 C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\obj\Debug\net8.0\WeaponsManagement.Data.pdb
 C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\obj\Debug\net8.0\ref\WeaponsManagement.Data.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\bin\Debug\net8.0\WeaponsManagement.Data.runtimeconfig.json
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\obj\Debug\net8.0\WeaponsManagement.Data.sourcelink.json
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Data\obj\Debug\net8.0\WeaponsManagement.Data.genruntimeconfig.cache
