@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WeaponsManagement.Data.AppDbContext;
 
@@ -10,9 +11,11 @@ using WeaponsManagement.Data.AppDbContext;
 namespace WeaponsManagement.Data.Migrations
 {
     [DbContext(typeof(WeaponDbContext))]
-    partial class WeaponDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250204204912_TableValue")]
+    partial class TableValue
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -25,7 +25,8 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Admin\Views\" />
-    <Folder Include="Areas\User\Controllers\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
     <Folder Include="Views\" />
   </ItemGroup>
 

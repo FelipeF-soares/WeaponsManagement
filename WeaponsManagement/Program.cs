@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using WeaponsManagement.Data.AppDbContext;
+using WeaponsManagement.Data.Repository;
+using WeaponsManagement.Data.Repository.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,7 +13,8 @@ builder.Services.AddDbContext<WeaponDbContext>
     (
         option => option.UseMySql(stringConnection,ServerVersion.AutoDetect(stringConnection))
     );
-
+builder.Services.AddScoped<IGenericPersist, GenericPersist>();
+builder.Services.AddScoped<IWeaponPersist, WeaponPersist>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
