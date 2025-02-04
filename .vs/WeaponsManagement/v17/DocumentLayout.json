@@ -3,27 +3,43 @@
   "WorkspaceRootPath": "C:\\WebProjects\\WeaponsManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Data\\Migrations\\20250204194202_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeaponsManagement.Data\\Migrations\\20250204194202_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A271F59-20AD-448A-A07D-E5BA498843A9}|WeaponsManagement\\WeaponsManagement.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A271F59-20AD-448A-A07D-E5BA498843A9}|WeaponsManagement\\WeaponsManagement.csproj|solutionrelative:weaponsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A271F59-20AD-448A-A07D-E5BA498843A9}|WeaponsManagement\\WeaponsManagement.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A271F59-20AD-448A-A07D-E5BA498843A9}|WeaponsManagement\\WeaponsManagement.csproj|solutionrelative:weaponsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\people\\military.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\people\\military.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\people\\pathpicturemilitary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\people\\pathpicturemilitary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\equipment\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|C:\\WebProjects\\WeaponsManagement\\weaponsmanagement.models\\equipment\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\equipment\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\equipment\\pathpictureweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\equipment\\pathpictureweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\place\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|C:\\WebProjects\\WeaponsManagement\\weaponsmanagement.models\\place\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\place\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.models\\place\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|C:\\WebProjects\\WeaponsManagement\\weaponsmanagement.models\\equipment\\pathpictureweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\equipment\\pathpictureweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|C:\\WebProjects\\WeaponsManagement\\weaponsmanagement.models\\people\\pathpicturemilitary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\people\\pathpicturemilitary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA514C86-8EDF-4ECF-A282-FCA961386C5A}|WeaponsManagement.Data\\WeaponsManagement.Data.csproj|c:\\webprojects\\weaponsmanagement\\weaponsmanagement.data\\appdbcontext\\weapondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA514C86-8EDF-4ECF-A282-FCA961386C5A}|WeaponsManagement.Data\\WeaponsManagement.Data.csproj|solutionrelative:weaponsmanagement.data\\appdbcontext\\weapondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|C:\\WebProjects\\WeaponsManagement\\weaponsmanagement.models\\place\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD2380E1-0D05-4870-8922-E3A1A1B9E828}|WeaponsManagement.Models\\WeaponsManagement.Models.csproj|solutionrelative:weaponsmanagement.models\\place\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,11 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250204194202_CreateDb.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Data\\Migrations\\20250204194202_CreateDb.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Data\\Migrations\\20250204194202_CreateDb.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Data\\Migrations\\20250204194202_CreateDb.cs",
+              "RelativeToolTip": "WeaponsManagement.Data\\Migrations\\20250204194202_CreateDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:42:03.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement\\Program.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement\\Program.cs",
+              "RelativeToolTip": "WeaponsManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:38:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "WeaponsManagement\\appsettings.json",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement\\appsettings.json",
+              "RelativeToolTip": "WeaponsManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T19:36:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponDbContext.cs",
+              "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Data\\AppDbContext\\WeaponDbContext.cs",
+              "RelativeDocumentMoniker": "WeaponsManagement.Data\\AppDbContext\\WeaponDbContext.cs",
+              "ToolTip": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Data\\AppDbContext\\WeaponDbContext.cs",
+              "RelativeToolTip": "WeaponsManagement.Data\\AppDbContext\\WeaponDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:28:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PathPictureMilitary.cs",
               "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\People\\PathPictureMilitary.cs",
               "RelativeDocumentMoniker": "WeaponsManagement.Models\\People\\PathPictureMilitary.cs",
@@ -51,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PathPictureWeapon.cs",
               "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Equipment\\PathPictureWeapon.cs",
               "RelativeDocumentMoniker": "WeaponsManagement.Models\\Equipment\\PathPictureWeapon.cs",
@@ -64,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Military.cs",
               "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\People\\Military.cs",
               "RelativeDocumentMoniker": "WeaponsManagement.Models\\People\\Military.cs",
@@ -77,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Place\\Address.cs",
               "RelativeDocumentMoniker": "WeaponsManagement.Models\\Place\\Address.cs",
@@ -85,12 +153,11 @@
               "RelativeToolTip": "WeaponsManagement.Models\\Place\\Address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T18:24:14.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T18:24:14.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Place\\Unit.cs",
               "RelativeDocumentMoniker": "WeaponsManagement.Models\\Place\\Unit.cs",
@@ -103,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\WebProjects\\WeaponsManagement\\WeaponsManagement.Models\\Equipment\\Weapon.cs",
               "RelativeDocumentMoniker": "WeaponsManagement.Models\\Equipment\\Weapon.cs",

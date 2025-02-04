@@ -9,3 +9,4 @@ C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\Weapo
 C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\refint\WeaponsManagement.Models.dll
 C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.pdb
 C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\ref\WeaponsManagement.Models.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement.Models\obj\Debug\net8.0\WeaponsManagement.Models.sourcelink.json
