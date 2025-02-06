@@ -10,5 +10,5 @@ namespace WeaponsManagement.Data.Repository.Interfaces;
 public interface IWeaponPersist 
 {
     List<Weapon> GetAllWeapons();
-    Weapon GetWeaponById(int id);
+    Weapon? GetWeaponById(int id);
 }

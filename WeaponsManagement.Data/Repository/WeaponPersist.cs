@@ -24,7 +24,7 @@ public class WeaponPersist : IWeaponPersist
         return query.ToList();
     }
 
-    public Weapon GetWeaponById(int id)
+    public Weapon? GetWeaponById(int id)
     {
         IQueryable<Weapon> query = context.Weapons.Include(w => w.Military).AsNoTracking();
         return query.FirstOrDefault(weapon => weapon.Id == id);

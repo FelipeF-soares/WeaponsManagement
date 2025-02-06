@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WeaponsManagement.Application\WeaponsManagement.Application.csproj" />
     <ProjectReference Include="..\WeaponsManagement.Data\WeaponsManagement.Data.csproj" />
     <ProjectReference Include="..\WeaponsManagement.Models\WeaponsManagement.Models.csproj" />
   </ItemGroup>

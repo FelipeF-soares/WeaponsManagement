@@ -1,8 +1,7 @@
-﻿@model List<Weapon>
+﻿@model List<Unit>
 
-@foreach(var item in Model)
-{
-    <h1>@item.Id</h1>
-    <h1>@item.PatrimonyNumber</h1>
-    <h1>@item.UnitId</h1>
-}
+    @foreach(var unit in @Model)
+    {
+        <h1>@unit.Name</h1>
+        <h1>@unit.Street</h1>
+    }

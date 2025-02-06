@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeaponsManagement.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d989d0e572bf750192e22b599ac66042e1d9fba4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7afa7bf4ebb40a12e3f1688161e6adb00705a69")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeaponsManagement.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeaponsManagement.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

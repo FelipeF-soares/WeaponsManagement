@@ -242,3 +242,5 @@ C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Microsoft.Ex
 C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\MySqlConnector.dll
 C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\WebProjects\WeaponsManagement\WeaponsManagement\obj\Debug\net8.0\WeaponsManagement.sourcelink.json
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\WeaponsManagement.Application.dll
+C:\WebProjects\WeaponsManagement\WeaponsManagement\bin\Debug\net8.0\WeaponsManagement.Application.pdb
